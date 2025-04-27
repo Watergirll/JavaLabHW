@@ -1,0 +1,1 @@
+Acesta este un exemplu simplu pentru testarea programului de procesare a fisierelor text
